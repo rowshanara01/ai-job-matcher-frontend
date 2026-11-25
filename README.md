@@ -100,7 +100,7 @@ FRONTEND_URL=http://localhost:3000
 
 ---
 
-## 🐛 Issues Faced & How We Fixed Them
+## 🐛 Issues Faced & How I Fixed Them
 
 ### Frontend Issues
 1. **CORS Policy Blocking API Requests in Production**
