@@ -17,7 +17,7 @@
 
 ---
 
-## ✨ Features
+#### ✨ Features
 - **AI Resume Analyzer** — Paste your resume, skills extracted instantly
 - **Smart Job Matching** — See match % for every job
 - **Skill Gap Report** — Know exactly what to learn next
