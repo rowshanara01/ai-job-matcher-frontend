@@ -138,7 +138,7 @@ FRONTEND_URL=http://localhost:3000
 
 ---
 
-## 🔗 Repositories
+#### 🔗 Repositories
 - [Frontend Repo](https://github.com/your-username/job-matcher-frontend)
 - [Backend Repo](https://github.com/your-username/job-matcher-backend)
 
