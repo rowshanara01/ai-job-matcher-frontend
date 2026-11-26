@@ -119,7 +119,7 @@ FRONTEND_URL=http://localhost:3000
    - **Issue:** Vercel builds failed due to React hooks inside Server Components and strict TypeScript checks on API responses.
    - **Fix:** Added `'use client'` only to interactive components (Resume Analyzer, Job Filters) and defined strict TypeScript interfaces for job and match data.
 
-### Backend Issues
+#### Backend Issues
 1. **CORS Origin Mismatch Between Local & Vercel URLs**
    - **Issue:** Preflight (`OPTIONS`) requests were rejected in production due to origin/trailing-slash mismatches.
    - **Fix:** Normalized `FRONTEND_URL` and configured Express `cors` middleware to explicitly allow `GET`, `POST`, and `OPTIONS` from the allowed origin.
