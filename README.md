@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠 Tech Stack
+#### 🛠 Tech Stack
 
 | Part | Technology | Purpose |
 |------|------------|---------|
