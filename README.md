@@ -102,7 +102,7 @@ FRONTEND_URL=http://localhost:3000
 
 #### 🐛 Issues Faced & How I Fixed Them
 
-### Frontend Issues
+#### Frontend Issues
 1. **CORS Policy Blocking API Requests in Production**
    - **Issue:** Browser `fetch` calls from Vercel (`*.vercel.app`) to Render (`*.onrender.com`) failed with CORS errors.
    - **Fix:** Set `FRONTEND_URL` on the backend to the exact Vercel domain (without a trailing slash) and ensured proper `Content-Type: application/json` headers on requests.
