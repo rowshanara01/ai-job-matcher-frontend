@@ -21,7 +21,7 @@
 - **AI Resume Analyzer** — Paste your resume, skills extracted instantly
 - **Smart Job Matching** — See match % for every job
 - **Skill Gap Report** — Know exactly what to learn next
-- **Job Browser** — Filter by Remote, Hybrid, On-site
+- **Job Browser** — Filter by Remote, Hybrid, On-sites
 - **Fully Responsive** — Mobile, tablet, desktop
 
 ---
