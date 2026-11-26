@@ -51,7 +51,7 @@
 
 #### 🚀 Getting Started
 
-### 1. Frontend Setup
+#### 1. Frontend Setup
 ```bash
 git clone https://github.com/your-username/job-matcher-frontend.git
 cd job-matcher-frontend
