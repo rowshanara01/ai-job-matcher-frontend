@@ -90,7 +90,7 @@ FRONTEND_URL=http://localhost:3000
 3. Add environment variable: `NEXT_PUBLIC_API_URL` = your Render URL
 4. Click Deploy ✅
 
-### Deploy Backend on Render
+#### Deploy Backend on Render
 1. Push to GitHub
 2. Go to render.com → New Web Service → Connect repo
 3. Build: `npm install && npm run build`
