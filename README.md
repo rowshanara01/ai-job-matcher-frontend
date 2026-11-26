@@ -142,5 +142,5 @@ FRONTEND_URL=http://localhost:3000
 - [Frontend Repo](https://github.com/your-username/job-matcher-frontend)
 - [Backend Repo](https://github.com/your-username/job-matcher-backend)
 
-## 📄 License
+#### 📄 License
 MIT
