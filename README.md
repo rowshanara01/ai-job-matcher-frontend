@@ -84,7 +84,7 @@ FRONTEND_URL=http://localhost:3000
 
 #### ☁️ Deployment
 
-### Deploy Frontend on Vercel
+#### Deploy Frontend on Vercel
 1. Push to GitHub
 2. Go to vercel.com → New Project → Import repo
 3. Add environment variable: `NEXT_PUBLIC_API_URL` = your Render URL
