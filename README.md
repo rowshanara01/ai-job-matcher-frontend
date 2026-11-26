@@ -65,7 +65,7 @@ npm run dev
 NEXT_PUBLIC_API_URL=http://localhost:8000
 ```
 
-### 2. Backend Setup
+#### 2. Backend Setup
 ```bash
 git clone https://github.com/your-username/job-matcher-backend.git
 cd job-matcher-backend
