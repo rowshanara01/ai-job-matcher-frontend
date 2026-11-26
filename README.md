@@ -1,4 +1,4 @@
-# 🚀 JobMatchAI (Frontend + Backend)
+#### 🚀 JobMatchAI (Frontend + Backend)
 
 > AI-powered job matching platform built with **Next.js 14**, **Node.js**, **Express**, and **TypeScript**.
 
