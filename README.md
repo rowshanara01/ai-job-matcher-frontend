@@ -1,6 +1,6 @@
 #### 🚀 JobMatchAI (Frontend + Backend)
 
-> AI-powered job matching platform built with **Next.js 14**, **Node.js**, **Express**, and **TypeScript**.
+> AI-powered job matching platform builts with **Next.js 14**, **Node.js**, **Express**, and **TypeScript**.
 
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)
