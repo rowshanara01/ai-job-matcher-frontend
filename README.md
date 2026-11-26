@@ -82,7 +82,7 @@ FRONTEND_URL=http://localhost:3000
 
 ---
 
-## ☁️ Deployment
+#### ☁️ Deployment
 
 ### Deploy Frontend on Vercel
 1. Push to GitHub
